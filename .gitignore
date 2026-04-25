@@ -1,0 +1,7 @@
+# 此分支仅包含产品介绍文档，无源代码
+*
+!README.md
+!README_EN.md
+!.gitignore
+!docs/
+!docs/**
