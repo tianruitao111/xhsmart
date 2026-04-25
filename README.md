@@ -4,14 +4,15 @@
 
 # ✨ Rednote Spark
 
-### AI 驱动的小红书内容运营矩阵 · 从选题到发布，全链路智能化
+### AI 驱动的小红书内容运营矩阵 · 从行业洞察到批量发布，全链路智能化
 
-**AI-Powered Content Operations Platform for Rednote / Xiaohongshu**
+**AI-Powered Full-Stack Content Operations Platform for Xiaohongshu / Rednote**
 
 [![Live Demo](https://img.shields.io/badge/🌐_立即体验-xhsmart.ltyfa.top-ff2442?style=flat-square)](https://xhsmart.ltyfa.top)
 [![Free Trial](https://img.shields.io/badge/🎁_免费注册-20次生成额度-success?style=flat-square)](https://xhsmart.ltyfa.top)
 [![WeChat](https://img.shields.io/badge/💬_联系微信-Tutuyunying5431-07c160?style=flat-square)](https://xhsmart.ltyfa.top)
-[![Stars](https://img.shields.io/github/stars/tianruitao111/XHSFABU?style=flat-square&color=ffd700)](https://github.com/tianruitao111/XHSFABU/stargazers)
+[![Stars](https://img.shields.io/github/stars/tianruitao111/xhsmart?style=flat-square&color=ffd700)](https://github.com/tianruitao111/xhsmart/stargazers)
+[![License](https://img.shields.io/badge/license-Commercial-blue?style=flat-square)](https://xhsmart.ltyfa.top)
 
 </div>
 
@@ -23,7 +24,13 @@
 
 不是简单的 AI 写作工具 —— 而是一套**从市场洞察到内容落地的完整方法论与工具链**。
 
-> 🌐 **在线体验**：[https://xhsmart.ltyfa.top](https://xhsmart.ltyfa.top) · 注册即送 20 次生成额度，无需信用卡
+> 🌐 **在线体验（国内直连）**：[https://xhsmart.ltyfa.top](https://xhsmart.ltyfa.top) · 注册即送 20 次生成额度，无需信用卡
+
+**亮点数据：**
+- 🏭 支持 **13+ 热门行业**全覆盖（美妆/家居/餐饮/母婴/职场等）
+- 📝 **70+ 爆款内容公式** × 10 大内容格式（Pro 专享）
+- 🎨 **40+ 封面风格**，AI 智能推荐匹配
+- ⚡ 无需注册即可体验游客 Demo，**注册送 20 次免费生成额度**
 
 ---
 
@@ -109,9 +116,9 @@
 
 ---
 
-### 🏠 产品首页 · 功能全览
+### 🏠 产品工作台 · 功能全览
 ![Home](https://xhsmart.ltyfa.top/demo-assets/screenshot-dashboard.png)
-*一站式 AI 内容运营工作台 · 13+ 热门行业覆盖 · 游客模式可直接体验所有功能*
+*一站式 AI 内容运营工作台 · 13+ 热门行业覆盖 · 无需登录即可体验游客 Demo*
 
 ---
 
@@ -248,7 +255,7 @@
 
 **喜欢这个项目？欢迎 Star ⭐ 让更多人看到！**
 
-[![Star History](https://api.star-history.com/svg?repos=tianruitao111/XHSFABU&type=Date)](https://star-history.com/#tianruitao111/XHSFABU&Date)
+[![Star History](https://api.star-history.com/svg?repos=tianruitao111/xhsmart&type=Date)](https://star-history.com/#tianruitao111/xhsmart&Date)
 
 </div>
 
@@ -256,20 +263,26 @@
 
 ## ❓ 常见问题 / FAQ
 
+**Q: 注册后能立刻使用吗？**
+A: 是的，注册后立即获得 20 次免费图文生成额度，无需信用卡，无需绑定 API Key。
+
 **Q: 免费额度用完后怎么办？**
-A: 联系微信 Tutuyunying5431 开通 Pro 版，配置自己的 API Key 后可无限使用。
+A: 联系微信 Tutuyunying5431 开通 Pro 版，绑定自己的 API Key 后即可无限量使用。
 
 **Q: 支持哪些 AI 模型？**
-A: 支持 OpenAI (GPT-4/4o)、豆包（火山引擎）、Claude (Anthropic)，以及任何兼容 OpenAI 格式的模型接口。
+A: 支持 OpenAI (GPT-4/4o/o1)、豆包（火山引擎）、Claude (Anthropic)，以及任何兼容 OpenAI 格式的自定义模型接口。
 
-**Q: 需要自己准备 API Key 吗？**
-A: 免费用户使用平台共享额度（有上限）；Pro 用户可配置自己的 API Key 实现无限使用。
+**Q: Pro 版需要自己的 API Key 吗？**
+A: 是的。Pro 版通过绑定自己的 API Key 实现无限使用，成本更低且数据更安全。
+
+**Q: 多账号批量发布功能如何开通？**
+A: 该功能属于企业版专项功能，需要管理员审核开通，联系微信 Tutuyunying5431 了解详情。
 
 **Q: 数据安全性如何？**
-A: 在线版数据存储在安全服务器，企业版可私有化部署实现数据完全自主。
+A: 在线版数据存储在独立服务器，不会与第三方共享；企业版可私有化部署实现数据完全自主。
 
 **Q: 是否支持私有化部署？**
-A: 支持，联系微信洽谈企业部署方案。
+A: 支持，联系微信洽谈企业私有化部署方案（独立服务器 + 品牌定制 + 专属支持）。
 
 ---
 
