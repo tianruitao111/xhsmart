@@ -8,9 +8,9 @@
 
 **AI-Powered Content Operations Platform for Rednote / Xiaohongshu**
 
-[![Live Demo](https://img.shields.io/badge/🌐_立即体验-xhsmart.top-ff2442?style=flat-square)](https://xhsmart.top)
-[![Free Trial](https://img.shields.io/badge/🎁_免费注册-20次生成额度-success?style=flat-square)](https://xhsmart.top)
-[![WeChat](https://img.shields.io/badge/💬_联系微信-Tutuyunying5431-07c160?style=flat-square)](https://xhsmart.top)
+[![Live Demo](https://img.shields.io/badge/🌐_立即体验-xhsmart.ltyfa.top-ff2442?style=flat-square)](https://xhsmart.ltyfa.top)
+[![Free Trial](https://img.shields.io/badge/🎁_免费注册-20次生成额度-success?style=flat-square)](https://xhsmart.ltyfa.top)
+[![WeChat](https://img.shields.io/badge/💬_联系微信-Tutuyunying5431-07c160?style=flat-square)](https://xhsmart.ltyfa.top)
 [![Stars](https://img.shields.io/github/stars/tianruitao111/XHSFABU?style=flat-square&color=ffd700)](https://github.com/tianruitao111/XHSFABU/stargazers)
 
 </div>
@@ -23,7 +23,7 @@
 
 不是简单的 AI 写作工具 —— 而是一套**从市场洞察到内容落地的完整方法论与工具链**。
 
-> 🌐 **在线体验**：[https://xhsmart.top](https://xhsmart.top) · 注册即送 20 次生成额度，无需信用卡
+> 🌐 **在线体验**：[https://xhsmart.ltyfa.top](https://xhsmart.ltyfa.top) · 注册即送 20 次生成额度，无需信用卡
 
 ---
 
@@ -105,12 +105,12 @@
 
 ## 🎬 功能演示 / Demo Screenshots
 
-> 💡 **[点击进入在线演示 →](https://xhsmart.top)**  无需注册即可体验游客模式
+> 💡 **[点击进入在线演示 →](https://xhsmart.ltyfa.top)**  无需注册即可体验游客模式
 
 ---
 
 ### 🏠 产品首页 · 功能全览
-![Home](https://xhsmart.top/demo-assets/screenshot-dashboard.png)
+![Home](https://xhsmart.ltyfa.top/demo-assets/screenshot-dashboard.png)
 *一站式 AI 内容运营工作台 · 13+ 热门行业覆盖 · 游客模式可直接体验所有功能*
 
 ---
@@ -118,36 +118,36 @@
 ### 🎯 创作策略工坊 · 全链路
 
 **① 内容洞察** — 行业热点方向库，实时掌握爆款趋势
-![内容洞察](https://xhsmart.top/demo-assets/screenshot-workshop-insight.png)
+![内容洞察](https://xhsmart.ltyfa.top/demo-assets/screenshot-workshop-insight.png)
 
 **② 选题方向** — AI 深度拆解热门赛道，提炼高转化选题角度
-![选题方向](https://xhsmart.top/demo-assets/screenshot-workshop-topic.png)
+![选题方向](https://xhsmart.ltyfa.top/demo-assets/screenshot-workshop-topic.png)
 
 **③ 产品档案** — 13 行业专属字段，结构化管理产品信息
-![产品档案](https://xhsmart.top/demo-assets/screenshot-workshop-profile.png)
+![产品档案](https://xhsmart.ltyfa.top/demo-assets/screenshot-workshop-profile.png)
 
 **④ 客户分析** — AI 一键生成精准客群画像
-![客户分析](https://xhsmart.top/demo-assets/screenshot-workshop-customer.png)
+![客户分析](https://xhsmart.ltyfa.top/demo-assets/screenshot-workshop-customer.png)
 
 **⑤ 爆款公式** *(Pro 专享)* — 10 大内容格式 × 70+ 子主题，付费解锁完整公式库
-![爆款公式](https://xhsmart.top/demo-assets/screenshot-workshop-formula2.png)
+![爆款公式](https://xhsmart.ltyfa.top/demo-assets/screenshot-workshop-formula2.png)
 
 ---
 
 ### 🎨 封面风格库 · 40+ 精选风格
-![封面风格库](https://xhsmart.top/demo-assets/screenshot-cover-library.png)
+![封面风格库](https://xhsmart.ltyfa.top/demo-assets/screenshot-cover-library.png)
 *手绘插画 · 实拍大片 · 平面设计 · 简约文字 · 7大类风格 · 行业专属配色方案*
 
 ---
 
 ### 🤖 智能图文引擎 · 批量生成
-![智能图文引擎](https://xhsmart.top/demo-assets/screenshot-engine-full.png)
+![智能图文引擎](https://xhsmart.ltyfa.top/demo-assets/screenshot-engine-full.png)
 *多行业多人设并行 · 一键匹配标题正文 hashtag · AI 自动配图 · 批量导出可直接发布*
 
 ---
 
 ### 📅 内容日历排期
-![内容日历](https://xhsmart.top/demo-assets/screenshot-calendar.png)
+![内容日历](https://xhsmart.ltyfa.top/demo-assets/screenshot-calendar.png)
 *月度内容规划 · 子主题 × 角度 × 封面自动分配 · 与策略工坊行业/产品实时联动*
 
 ---
@@ -201,7 +201,7 @@
 ### 方式一：直接使用在线版（推荐）
 
 ```
-1. 访问 https://xhsmart.top
+1. 访问 https://xhsmart.ltyfa.top
 2. 点击右上角「注册」
 3. 填写邮箱 + 密码，立即获得 20 次免费额度
 4. 开始体验 AI 内容生成！
@@ -243,7 +243,7 @@
 | 渠道 | 方式 |
 |------|------|
 | 💬 微信 | **Tutuyunying5431** |
-| 🌐 在线体验 | [xhsmart.top](https://xhsmart.top) |
+| 🌐 在线体验 | [xhsmart.ltyfa.top](https://xhsmart.ltyfa.top) |
 | ⭐ GitHub | 点个 Star 支持开发者！ |
 
 **喜欢这个项目？欢迎 Star ⭐ 让更多人看到！**
@@ -277,6 +277,6 @@ A: 支持，联系微信洽谈企业部署方案。
 
 Made with ❤️ for Rednote Content Creators
 
-[xhsmart.top](https://xhsmart.top) · 微信：Tutuyunying5431
+[xhsmart.ltyfa.top](https://xhsmart.ltyfa.top) · 微信：Tutuyunying5431
 
 </div>
