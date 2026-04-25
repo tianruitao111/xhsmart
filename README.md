@@ -107,25 +107,48 @@
 
 > 💡 **[点击进入在线演示 →](https://xhsmart.top)**  无需注册即可体验游客模式
 
-### 产品首页 · 功能全览
-![Home](https://xhsmart.top/demo-assets/screenshot-home.png)
-*一站式 AI 内容运营平台 · 13+ 热门行业覆盖 · 从洞察到发布全链路*
+---
 
-### 智能工作台
-![Dashboard](https://xhsmart.top/demo-assets/screenshot-dashboard.png)
-*快速访问所有功能 · 数据概览 · 游客模式可直接体验*
+### 🏠 产品首页 · 功能全览
+![Home](https://xhsmart.top/demo-assets/screenshot-dashboard.png)
+*一站式 AI 内容运营工作台 · 13+ 热门行业覆盖 · 游客模式可直接体验所有功能*
 
-### 创作策略工坊
-![Strategy Workshop](https://xhsmart.top/demo-assets/screenshot-workshop.png)
-*行业洞察 → 选题方向 → 产品档案 → 客户分析 → 爆款公式 全链路打通*
+---
 
-### 智能图文引擎
-![Content Engine](https://xhsmart.top/demo-assets/screenshot-content-engine.png)
-*批量生成高质量图文 · 多风格封面 · 自动标题优化 · 一键导出*
+### 🎯 创作策略工坊 · 全链路
 
-### 内容日历排期
-![Content Calendar](https://xhsmart.top/demo-assets/screenshot-calendar.png)
-*月度内容规划 · 子主题自动分配 · 跟随策略工坊行业同步*
+**① 内容洞察** — 行业热点方向库，实时掌握爆款趋势
+![内容洞察](https://xhsmart.top/demo-assets/screenshot-workshop-insight.png)
+
+**② 选题方向** — AI 深度拆解热门赛道，提炼高转化选题角度
+![选题方向](https://xhsmart.top/demo-assets/screenshot-workshop-topic.png)
+
+**③ 产品档案** — 13 行业专属字段，结构化管理产品信息
+![产品档案](https://xhsmart.top/demo-assets/screenshot-workshop-profile.png)
+
+**④ 客户分析** — AI 一键生成精准客群画像
+![客户分析](https://xhsmart.top/demo-assets/screenshot-workshop-customer.png)
+
+**⑤ 爆款公式** *(Pro 专享)* — 10 大内容格式 × 70+ 子主题，付费解锁完整公式库
+![爆款公式](https://xhsmart.top/demo-assets/screenshot-workshop-formula2.png)
+
+---
+
+### 🎨 封面风格库 · 40+ 精选风格
+![封面风格库](https://xhsmart.top/demo-assets/screenshot-cover-library.png)
+*手绘插画 · 实拍大片 · 平面设计 · 简约文字 · 7大类风格 · 行业专属配色方案*
+
+---
+
+### 🤖 智能图文引擎 · 批量生成
+![智能图文引擎](https://xhsmart.top/demo-assets/screenshot-engine-full.png)
+*多行业多人设并行 · 一键匹配标题正文 hashtag · AI 自动配图 · 批量导出可直接发布*
+
+---
+
+### 📅 内容日历排期
+![内容日历](https://xhsmart.top/demo-assets/screenshot-calendar.png)
+*月度内容规划 · 子主题 × 角度 × 封面自动分配 · 与策略工坊行业/产品实时联动*
 
 ---
 
