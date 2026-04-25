@@ -107,21 +107,25 @@
 
 > 💡 **[点击进入在线演示 →](https://xhsmart.top)**  无需注册即可体验游客模式
 
-### 工作台首页
-![Dashboard](https://xhsmart.top/demo-assets/dashboard.png)
-*智能工作台 · 全局数据概览 · 快速访问常用功能*
+### 产品首页 · 功能全览
+![Home](https://xhsmart.top/demo-assets/screenshot-home.png)
+*一站式 AI 内容运营平台 · 13+ 热门行业覆盖 · 从洞察到发布全链路*
+
+### 智能工作台
+![Dashboard](https://xhsmart.top/demo-assets/screenshot-dashboard.png)
+*快速访问所有功能 · 数据概览 · 游客模式可直接体验*
 
 ### 创作策略工坊
-![Strategy Workshop](https://xhsmart.top/demo-assets/workshop.png)
-*行业洞察 → 选题方向 → 产品档案 → 客户分析 → 内容排期 全链路打通*
+![Strategy Workshop](https://xhsmart.top/demo-assets/screenshot-workshop.png)
+*行业洞察 → 选题方向 → 产品档案 → 客户分析 → 爆款公式 全链路打通*
 
 ### 智能图文引擎
-![Content Engine](https://xhsmart.top/demo-assets/content-engine.png)
-*批量生成高质量图文 · 多风格封面 · 自动标题优化*
+![Content Engine](https://xhsmart.top/demo-assets/screenshot-content-engine.png)
+*批量生成高质量图文 · 多风格封面 · 自动标题优化 · 一键导出*
 
 ### 内容日历排期
-![Content Calendar](https://xhsmart.top/demo-assets/calendar.png)
-*月度内容规划 · 子主题自动分配 · 跟随工坊行业同步*
+![Content Calendar](https://xhsmart.top/demo-assets/screenshot-calendar.png)
+*月度内容规划 · 子主题自动分配 · 跟随策略工坊行业同步*
 
 ---
 
